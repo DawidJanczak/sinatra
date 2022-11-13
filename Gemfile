@@ -49,6 +49,7 @@ gem 'redcarpet', platforms: [:ruby]
 gem 'simplecov', require: false
 gem 'slim', '~> 4'
 gem 'yajl-ruby', platforms: [:ruby]
+gem 'zeitwerk'
 
 gem 'json', platforms: %i[jruby mri]
 
